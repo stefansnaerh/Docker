@@ -15,4 +15,4 @@ All the files are in this repository a screeshot below.
 
 # Screenshot from my project
 
-<img src="./src/img.png">
+<img src="./src/img1.png">
